@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-micro-flow-controller-test-4ix",
+  "version": "1.0.0",
+  "description": "Scalable microservice architecture",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "micro-flow-controller-test-4ix"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-micro-flow-controller-test-4ix.git"
+  }
+}
